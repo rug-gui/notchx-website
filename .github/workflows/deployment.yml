@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: Webhook
-      url: https://github.com
+      url: https://dashboard.render.com
     steps:
       - name: Webhook
         uses: joelwmale/webhook-action@master
