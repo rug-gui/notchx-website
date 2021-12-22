@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: Webhook
-      url: https://api.render.com/deploy/srv-c710jb0nlki8eq3v0i50?key=JvCBJACclr4
+      url: https://api.render.com/#deploy/xxxxxx?key=xxxx
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
